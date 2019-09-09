@@ -1,4 +1,10 @@
 # Restaurant list for baguio
+a microCMS example
+![PHP](https://img.shields.io/badge/built%20with-PHP%205.5-blue)
+![MariaDB](https://img.shields.io/badge/built%20with-MariaDB-yellowgreen)
+![BootStrap](https://img.shields.io/badge/built%20with-BootStrap-blueviolet)
+![FontAwesome](https://img.shields.io/badge/built%20with-FontAwesome-blue)
+
 
 ## LIST of DB Tables
 ### restaurants table
