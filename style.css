@@ -1,0 +1,27 @@
+.main-panel {
+    width: 100%;
+}
+#price{
+    background-image: url(images/stars.jpg);
+    background-repeat: no-repeat;
+    height: 34px;
+    background-position: 0 0px;
+    background-size: 50%;
+}
+
+.navbar{
+	background: #ffffff;
+}
+.sidebar form{
+	padding: 20px;
+}
+.h50{
+	height: 50px;
+}
+.table-responsive {
+     overflow: auto; 
+}
+
+.main-panel>.content {
+    margin-top: 30px;
+}

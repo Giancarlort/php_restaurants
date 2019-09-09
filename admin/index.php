@@ -24,7 +24,7 @@ xhttp.onreadystatechange = function() {
         for(let i = 0; i < r.length; i++){
           html+='<tr id="r-'+r[i].id+'">';
           html+='<td>';
-          if(r[i].picture!='') html+='<img src="images/'+r[i].picture+'" class="img-fluid h50">';
+          if(r[i].picture!='') html+='<img src="../images/'+r[i].picture+'" class="img-fluid h50">';
           html+='</td>';
           html+='<td>'+r[i].name+'</td>';
           html+='<td>'+r[i].location+'</td>';
